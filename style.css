@@ -104,3 +104,11 @@ html,body{
     color: rgb(0, 247, 255);
     padding: 20px;
 }
+.text5{
+    position: absolute;
+    color: bisque;
+    font-size: 40px;
+    top: 25%;
+    left: 80%;
+    font-family: 'Vladimir Script',cursive;
+}
